@@ -18,7 +18,7 @@ You can find the color pallete here:
     443627 - Dark Lava
     BED558 - June Bug
 
-#Things to Do:
+# Things to Do:
 
 -Get a hosting site for patrick3.net
 -Get the website hosted
