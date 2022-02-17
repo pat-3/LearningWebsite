@@ -20,7 +20,7 @@ You can find the color pallete here:
 
 # Things to Do:
 
-- Get a hosting site for patrick3.net
-  - Get the website hosted
-- Add classes to HTML
-- Get site to read from styles.css
+- [ ]Get a hosting site for patrick3.net
+  - [ ]Get the website hosted
+- [ ]Add classes to HTML
+- [ ]Get site to read from styles.css
