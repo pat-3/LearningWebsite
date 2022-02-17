@@ -17,3 +17,8 @@ You can find the color pallete here:
     725E54 - Umber
     443627 - Dark Lava
     BED558 - June Bug
+
+#Things to Do:
+
+-Get a hosting site for patrick3.net
+-Get the website hosted
