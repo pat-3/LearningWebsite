@@ -25,3 +25,6 @@ You can find the color pallete here:
 - [ ] Add classes to HTML
 - [ ] Get site to read from styles.css
 - [ ] Add color formatting for CSS
+- [x] Buy "patrick3.net" domain
+  - [x] Find a website host - Cloudflare
+   - [ ] Upload site for end users to find
