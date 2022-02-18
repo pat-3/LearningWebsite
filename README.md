@@ -20,8 +20,8 @@ You can find the color pallete here:
 
 # Things to Do:
 - [x] Buy the pat3.net domain
- - [x] Get a hosting site for pat3.net
-  - [x] Get the website hosted - WEBSITE IS UP!!!
+  - [x] Get a hosting site for pat3.net
+   - [x] Get the website hosted - WEBSITE IS UP!!!
 - [ ] Add classes to HTML
 - [ ] Get site to read from styles.css
 - [ ] Add color formatting for CSS
