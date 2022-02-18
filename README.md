@@ -21,7 +21,7 @@ You can find the color pallete here:
 # Things to Do:
 
 - [x] Get a hosting site for pat3.net
-  - [x] Get the website hosted
+  - [x] Get the website hosted - 
   WEBSITE IS UP!!!
 - [ ] Add classes to HTML
 - [ ] Get site to read from styles.css
