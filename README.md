@@ -26,5 +26,5 @@ You can find the color pallete here:
 - [ ] Get site to read from styles.css
 - [ ] Add color formatting for CSS
 - [x] Buy "patrick3.net" domain
-  - [x] Find a website host - Cloudflare
+  - [x] Find a website host - HostGator (I fucked up here, I bought the domain through Cloudflare but it turns out not to be a hosting website so I have to host it through Hostgator. Now I have to wait 60 days so I can transfer it to HostGator, or figure out how to route it through the maze that is a DNS server.)
    - [ ] Upload site for end users to find
