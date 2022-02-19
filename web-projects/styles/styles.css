@@ -9,4 +9,5 @@ body {
   p {
     color: #725E54;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: href("img_girl.jpg");
   }
