@@ -1,13 +1,67 @@
-body {
-    background-color: #E7CFCD;
-    font-family: 'Times New Roman', Times, serif;
-  }
-  h1 {
-    color: #443627;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  p {
-    color: #725E54;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: href("img_girl.jpg");
-  }
+/* 
+Colors to try:
+  Mustard #E3B448
+  Sage #CBD18F
+  Forest Green #3A6B35
+  
+*/
+
+.title{
+  text-align: center;
+  font-size: 400%;
+  border-color: #e3b448;
+  border-radius: 20px;
+  box-sizing: auto;
+  font-family: 'Willump', sans-serif;
+  color: black;
+}
+
+.important-links{
+  text-align: center;
+  color: black;
+}
+
+.body {
+  /* background-color: blanchedalmond; */
+  background-image: url("images/misty-forest.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+
+}
+
+.h2 {
+  text-align: center;
+  font-size: x-large;
+  color: black;
+}
+
+.h3 {
+  text-align: left;
+  font-size: larger;
+  color: black;
+
+}
+
+.h4 {
+  text-align: left;
+  font-size: large;
+  color: black;
+}
+
+.h5 {
+  text-align: left;
+  font-size: medium;
+  color: black;
+}
+
+.p {
+  text-align: left;
+  font-family: ;
+  color: black;
+}
+
+.footer {
+  text-align: center;
+  font-size: 10px;
+  color: black;
+}
