@@ -23,6 +23,10 @@ You can find the color pallete here:
   - [x] Get a hosting site for pat3.net
    - [x] Get the website hosted - WEBSITE IS UP!!!
 - [x] Add changelog page
-- [ ] Add classes to HTML
-- [ ] Get site to read from styles.css
-- [ ] Add color formatting for CSS
+- [x] Add classes to HTML
+- [x] Get site to read from styles.css
+- [x] Add color formatting for CSS
+- [ ] Make a Twitter bot to snap news headlines and then embed it on my site
+    - [ ] Get Dev. Twitter account
+    - [ ] Make Bot
+    - [ ] Deploy to Website
