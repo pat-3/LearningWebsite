@@ -1,0 +1,85 @@
+/* 
+Colors to try:
+  Mustard #E3B448
+  Sage #CBD18F
+  Forest Green #3A6B35
+  
+*/
+
+.title {
+  text-align: center;
+  font-size: 65px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+}
+
+.nav {
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+}
+
+.body {
+  background-color: tan;
+  /* background-image: url("images/misty-forest.jpg");
+  background-repeat: no-repeat;
+  background-position: center top; */
+
+}
+
+.h2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+}
+
+.h3 {
+  text-align: center;
+  font-size: 23px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+
+}
+
+.h4 {
+  text-align: left;
+  font-size: 19px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+}
+
+.h5 {
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+}
+
+.p {
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+}
+
+.p2 {
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+}
+
+.footer {
+  text-align: center;
+  font-size: 13px;
+  font-family: 'Willump', sans-serif;
+  color: white;
+}
+
+.image {
+  display: block;
+  align-content: center;
+  width: 50%;
+}
